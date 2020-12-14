@@ -1,0 +1,4 @@
+sha512sig1l  rd rs1 rs2    31..25=10 14..12=7 6..0=0x2B
+sha512sig1h  rd rs1 rs2    31..25=11 14..12=7 6..0=0x2B
+sha512sum0r  rd rs1 rs2    31..25=12 14..12=7 6..0=0x2B
+sha512sum1r  rd rs1 rs2    31..25=13 14..12=7 6..0=0x2B
